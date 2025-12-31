@@ -19,11 +19,11 @@
 I’m a **B.Tech CSE student (2022–2026)** focused on building **practical, scalable, and user-friendly applications**.  
 I enjoy solving problems and writing code that is **clean, modular, and maintainable**.
 
-- 🌱 Learning **Full-Stack & Gen-AI integrations**
+- 🌱 Currently learning **Full-Stack & Gen-AI integrations**
 - 🧠 Solved **350+ DSA problems**
-- 🛠️ Interested in **API-driven architectures & performance**
-- 🤝 Open to **internships, collaboration & open-source**
-- 🎯 Goal: **ship real-world projects that create impact**
+- 🛠️ Interested in **API-driven architectures & performance optimization**
+- 🤝 Open to **internships, collaborations & open-source**
+- 🎯 Goal: **ship real-world projects that make an impact**
 
 > ✨ *“Take your time in building your new version.”*
 
@@ -44,19 +44,19 @@ I enjoy solving problems and writing code that is **clean, modular, and maintain
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-✔ CRUD • Schema design • Indexing basics
+✔ CRUD • schema design • indexing basics
 
 ### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,canva" />
 
-✔ Version control • Collaboration workflows • API testing
+✔ Version control • collaboration workflows • API testing
 
 ---
 
 ## 🧩 DSA & Problem Solving
 
 - 🔍 Focus on **patterns, optimization & time complexity**
-- 📈 Consistent practice with explanations
+- 📈 Consistently improving through practice & review
 
 🔗 Profiles  
 ➡️ **LeetCode:** _add link_  
@@ -68,32 +68,12 @@ I enjoy solving problems and writing code that is **clean, modular, and maintain
 
 | Project | Description |
 |--------|-------------|
-| ⭐ **Task Manager App** | CRUD, filters, responsive UI |
+| ⭐ **Task Manager App** | CRUD, filters, responsive design |
 | 🔐 **Auth Dashboard** | JWT auth, protected routes, roles |
 | 📝 **MERN Blog Platform** | comments, likes, secure auth |
-| 🤖 **AI Mini Tools** | experiments using AI APIs |
+| 🤖 **AI Mini Tools** | experiments with AI APIs |
 
 > 📌 *Pinned repos include setup guides, screenshots & docs.*
-
----
-
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anujkarn1542&show_icons=true" height="150">
-  <img src="https://streak-stats.demolab.com?user=Anujkarn1542" height="150">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkarn1542&layout=compact" height="150">
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Anujkarn1542/Anujkarn1542/blob/output/snake.svg">
-</p>
 
 ---
 
@@ -109,4 +89,4 @@ I enjoy solving problems and writing code that is **clean, modular, and maintain
 </p>
 
 ⭐ **If you like my work, consider giving a star — it really helps!**  
-💬 *Always excited to learn, collaborate, and build impactful projects.*
+💬 *Always excited to learn, collaborate, and build impactful products.*
