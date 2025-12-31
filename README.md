@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Anujkarn1542/Anujkarn1542/assets/placeholder/banner-dev.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFqYnRsNjVtYTl5NTA0Y2ppZWJlYXEyd3YzMzR6NDlhMWV2b3d0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JTnmWFfrdHZS4/giphy.gif" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">🚀 Web Developer | 💻 DSA Enthusiast | 🤖 Exploring Gen-AI</h3>
 
@@ -18,11 +19,11 @@
 I’m a **B.Tech CSE student (2022–2026)** focused on building **practical, scalable, and user-friendly applications**.  
 I enjoy solving problems and writing code that is **clean, modular, and maintainable**.
 
-- 🌱 Currently learning **Full-Stack & Gen-AI integrations**
+- 🌱 Learning **Full-Stack & Gen-AI integrations**
 - 🧠 Solved **350+ DSA problems**
-- 🛠️ Interested in **API-driven architectures & performance optimization**
-- 🤝 Open to **internships, collaborations & open-source**
-- 🎯 Goal: **ship real-world projects that make an impact**
+- 🛠️ Interested in **API-driven architectures & performance**
+- 🤝 Open to **internships, collaboration & open-source**
+- 🎯 Goal: **ship real-world projects that create impact**
 
 > ✨ *“Take your time in building your new version.”*
 
@@ -43,19 +44,19 @@ I enjoy solving problems and writing code that is **clean, modular, and maintain
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-✔ CRUD • schema design • indexing basics
+✔ CRUD • Schema design • Indexing basics
 
 ### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,canva" />
 
-✔ Version control • collaboration workflows • API testing
+✔ Version control • Collaboration workflows • API testing
 
 ---
 
 ## 🧩 DSA & Problem Solving
 
 - 🔍 Focus on **patterns, optimization & time complexity**
-- 📈 Consistently improving through practice & review
+- 📈 Consistent practice with explanations
 
 🔗 Profiles  
 ➡️ **LeetCode:** _add link_  
@@ -67,10 +68,10 @@ I enjoy solving problems and writing code that is **clean, modular, and maintain
 
 | Project | Description |
 |--------|-------------|
-| ⭐ **Task Manager App** | CRUD, filters, responsive design |
+| ⭐ **Task Manager App** | CRUD, filters, responsive UI |
 | 🔐 **Auth Dashboard** | JWT auth, protected routes, roles |
 | 📝 **MERN Blog Platform** | comments, likes, secure auth |
-| 🤖 **AI Mini Tools** | experiments with AI APIs |
+| 🤖 **AI Mini Tools** | experiments using AI APIs |
 
 > 📌 *Pinned repos include setup guides, screenshots & docs.*
 
@@ -79,12 +80,12 @@ I enjoy solving problems and writing code that is **clean, modular, and maintain
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anujkarn1542&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anujkarn1542&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anujkarn1542&show_icons=true" height="150">
+  <img src="https://streak-stats.demolab.com?user=Anujkarn1542" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkarn1542&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkarn1542&layout=compact" height="150">
 </p>
 
 ---
@@ -108,4 +109,4 @@ I enjoy solving problems and writing code that is **clean, modular, and maintain
 </p>
 
 ⭐ **If you like my work, consider giving a star — it really helps!**  
-💬 *Always excited to learn, collaborate, and build impactful products.*
+💬 *Always excited to learn, collaborate, and build impactful projects.*
