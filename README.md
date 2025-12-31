@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFqYnRsNjVtYTl5NTA0Y2ppZWJlYXEyd3YzMzR6NDlhMWV2b3d0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JTnmWFfrdHZS4/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anuj</h1>
