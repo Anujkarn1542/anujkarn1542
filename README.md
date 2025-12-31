@@ -1,28 +1,64 @@
-# 👋 Hi, I'm Anuj!
+# 👋 Hey, I'm Anuj — Welcome to my GitHub!
 
-I’m a B.Tech CSE student (2022–2026) focused on web development and problem solving.  
-I build practical apps using **React, Node, and MongoDB**, and I’ve solved **350+ DSA problems**.  
-I’m exploring **Gen-AI** and love working on real-world projects.
+🎓 **B.Tech CSE (2022–2026)**  
+💻 **Web Developer | Problem Solver | Exploring Gen-AI**
+
+I enjoy building real-world projects, writing clean code, and continuously improving my skills.  
+Currently working with **React, Node.js, and MongoDB** — and I’ve solved **350+ DSA problems**  
+to strengthen my problem-solving mindset.
 
 ---
 
 ## 🚀 Tech Stack
-- React, JavaScript, HTML, CSS  
-- Node.js, Express  
-- MongoDB, MySQL  
-- Git, GitHub, VS Code
+
+**Frontend:**  
+⚡ React • JavaScript • HTML • CSS • TailwindCSS  
+
+**Backend:**  
+🛠 Node.js • Express  
+
+**Database:**  
+🗄 MongoDB • MySQL  
+
+**Tools & Others:**  
+🔧 Git & GitHub • Postman • REST APIs • VS Code
 
 ---
 
-## 📌 Projects
-- Task Manager App  
-- MERN Blog Platform  
-- AI-powered tools & experiments  
+## 📌 Featured Projects
 
-➡️ Check pinned repositories below for demos and code.
+⭐ **Task Manager App** — CRUD, filters, local storage  
+🔐 **Auth Dashboard** — JWT auth + protected routes  
+📝 **MERN Blog Platform** — comments, likes, authentication  
+🤖 **AI Experiments** — Gen-AI mini tools and prototypes  
+
+➡️ *See pinned repositories below for code, demos, and documentation.*
 
 ---
 
-## 🤝 Let’s Connect
-- LinkedIn: _add link_
-- Email: _add email_
+## 🧠 DSA & Learning Journey
+
+📈 350+ problems solved across platforms  
+🧩 Focused on patterns, optimization, and clarity  
+✍️ I document approaches, complexity, and mistakes I learn from
+
+---
+
+## 🌱 What I’m Currently Working On
+
+🔹 Improving full-stack skills  
+🔹 Building Gen-AI-powered features  
+🔹 Writing cleaner, more maintainable code  
+🔹 Contributing to open-source step by step
+
+---
+
+## 🤝 Let’s Connect!
+
+📫 Email: anujkumardbg1542@gmail.com
+🔗 LinkedIn: (https://www.linkedin.com/in/anujkumarkarn/)  
+
+---
+
+⭐ **If you find something useful here, consider giving a star — it really motivates me!**  
+💬 Always happy to collaborate, learn, and build meaningful projects together.
