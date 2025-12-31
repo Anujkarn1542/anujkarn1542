@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/zZZ9O1M.gif" width="100%" />
+  <img src="https://github.com/Anujkarn1542/Anujkarn1542/assets/placeholder/banner-dev.gif" width="100%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">🚀 Web Developer | 💻 DSA Enthusiast | 🤖 Exploring Gen-AI</h3>
 
