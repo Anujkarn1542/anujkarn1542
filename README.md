@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Anuj!
 
-<!--
-**Anujkarn1542/anujkarn1542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech CSE student (2022–2026) focused on web development and problem solving.  
+I build practical apps using **React, Node, and MongoDB**, and I’ve solved **350+ DSA problems**.  
+I’m exploring **Gen-AI** and love working on real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- React, JavaScript, HTML, CSS  
+- Node.js, Express  
+- MongoDB, MySQL  
+- Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+- Task Manager App  
+- MERN Blog Platform  
+- AI-powered tools & experiments  
+
+➡️ Check pinned repositories below for demos and code.
+
+---
+
+## 🤝 Let’s Connect
+- LinkedIn: _add link_
+- Email: _add email_
